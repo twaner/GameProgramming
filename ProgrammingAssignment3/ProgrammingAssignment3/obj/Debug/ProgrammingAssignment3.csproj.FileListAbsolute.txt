@@ -5,3 +5,9 @@ C:\Users\tberman-waner\documents\visual studio 2012\Projects\ProgrammingAssignme
 C:\Users\tberman-waner\documents\visual studio 2012\Projects\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\ProgrammingAssignment3.csprojResolveAssemblyReference.cache
 C:\Users\tberman-waner\documents\visual studio 2012\Projects\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\ProgrammingAssignment3.exe
 C:\Users\tberman-waner\documents\visual studio 2012\Projects\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\ProgrammingAssignment3.pdb
+C:\Users\tberman-waner\Desktop\GoogleDrive\Coursera\Game Programming\ProgrammingAssignment3\ProgrammingAssignment3\bin\Debug\ProgrammingAssignment3.exe.config
+C:\Users\tberman-waner\Desktop\GoogleDrive\Coursera\Game Programming\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\ProgrammingAssignment3.exe
+C:\Users\tberman-waner\Desktop\GoogleDrive\Coursera\Game Programming\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\ProgrammingAssignment3.pdb
+C:\Users\tberman-waner\Desktop\GoogleDrive\Coursera\Game Programming\ProgrammingAssignment3\ProgrammingAssignment3\bin\Debug\ProgrammingAssignment3.exe
+C:\Users\tberman-waner\Desktop\GoogleDrive\Coursera\Game Programming\ProgrammingAssignment3\ProgrammingAssignment3\bin\Debug\ProgrammingAssignment3.pdb
+C:\Users\tberman-waner\Desktop\GoogleDrive\Coursera\Game Programming\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\ProgrammingAssignment3.csprojResolveAssemblyReference.cache

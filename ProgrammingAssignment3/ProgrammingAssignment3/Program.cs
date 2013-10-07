@@ -30,7 +30,7 @@ namespace ProgrammingAssignment3
         {
             foreach (var i in hand)
             {
-                Console.Write(String.Format("{0} had a score of {1}.\n", i, i.Score));
+                Console.Write(String.Format("Score: {0}.\n", i.Score));
             }
         }
 
@@ -82,6 +82,8 @@ namespace ProgrammingAssignment3
             //show and print hands and player scores
             showAndPrint(hands);
             showScores(hands);
+
+            hands[0].Print();
 
             // Graceful exit
             Console.WriteLine("\nPress any key to exit.\n");
