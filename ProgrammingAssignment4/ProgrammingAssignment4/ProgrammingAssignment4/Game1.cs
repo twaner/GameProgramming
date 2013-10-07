@@ -18,9 +18,8 @@ namespace ProgrammingAssignment4
     {
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
-
         // STUDENTS: DECLARE BOARD AND QUIT BUTTON VARIABLES HERE
-
+        Board board;
         // game state and turn tracking
         static GameState gameState = GameState.Play;
         PlayerType whoseTurn = PlayerType.Human;
@@ -62,7 +61,9 @@ namespace ProgrammingAssignment4
             spriteBatch = new SpriteBatch(GraphicsDevice);
 
             // STUDENTS: CREATE THE BOARD OBJECT HERE, MAKING SURE THE BOARD IS CENTERED IN THE WINDOW
-
+            int centerX = graphics.PreferredBackBufferWidth / 2;
+            int centerY = graphics.PreferredBackBufferHeight / 2;
+            board = new Board(Content, centerX, centerY);
             // STUDENTS: CREATE QUIT BUTTON HERE, CENTERED HORIZONTALLY AND WITH A REASONABLE SPACE ABOVE THE BOTTOM OF THE WINDOW
 
         }
@@ -133,7 +134,7 @@ namespace ProgrammingAssignment4
             GraphicsDevice.Clear(Color.CornflowerBlue);
 
             // STUDENTS: DRAW THE BOARD HERE. IF gameState IS GameState.GameOver, DRAW THE QUIT BUTTON ALSO
-
+            board.Draw(spriteBatch);
             base.Draw(gameTime);
         }
 

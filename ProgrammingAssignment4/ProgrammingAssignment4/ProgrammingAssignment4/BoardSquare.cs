@@ -42,8 +42,8 @@ namespace ProgrammingAssignment4
             // STUDENTS: ADD CODE HERE TO SET THE DRAW RECTANGLE X AND Y PROPERTIES
             // TO CENTER THE SQUARE AT THE GIVEN X AND Y. REPLACE THE 0s BELOW WITH 
             // THE APPROPRIATE EQUATIONS
-            drawRectangle.X = 0;
-            drawRectangle.Y = 0;
+            drawRectangle.X = x - drawRectangle.Width / 2;
+            drawRectangle.Y = y - drawRectangle.Height / 2; 
         }
 
         #endregion
@@ -102,6 +102,9 @@ namespace ProgrammingAssignment4
         public void Draw(SpriteBatch spriteBatch)
         {
             // STUDENTS: DRAW THE SQUARE SPRITE
+            spriteBatch.Begin();
+            spriteBatch.Draw(squareSprite, drawRectangle, Color.White);
+            spriteBatch.End();
  
             // STUDENTS: IF THE SQUARE HOLDS AN X, DRAW THE X SPRITE
             // OTHERWISE, IF THE SQUARE HOLDS AN O, DRAW THE O SPRITE

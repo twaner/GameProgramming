@@ -68,3 +68,13 @@ D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 4\Materi
 D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 4\Materials\ProgrammingAssignment4\ProgrammingAssignment4\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 4\Materials\ProgrammingAssignment4\ProgrammingAssignment4\obj\x86\Debug\ProgrammingAssignment4.exe
 D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 4\Materials\ProgrammingAssignment4\ProgrammingAssignment4\obj\x86\Debug\ProgrammingAssignment4.pdb
+C:\Users\tberman-waner\Desktop\GoogleDrive\Coursera\Game Programming\ProgrammingAssignment4\ProgrammingAssignment4\ProgrammingAssignment4\bin\x86\Debug\Content\o.xnb
+C:\Users\tberman-waner\Desktop\GoogleDrive\Coursera\Game Programming\ProgrammingAssignment4\ProgrammingAssignment4\ProgrammingAssignment4\bin\x86\Debug\Content\square.xnb
+C:\Users\tberman-waner\Desktop\GoogleDrive\Coursera\Game Programming\ProgrammingAssignment4\ProgrammingAssignment4\ProgrammingAssignment4\bin\x86\Debug\Content\x.xnb
+C:\Users\tberman-waner\Desktop\GoogleDrive\Coursera\Game Programming\ProgrammingAssignment4\ProgrammingAssignment4\ProgrammingAssignment4\bin\x86\Debug\Content\quitbutton.xnb
+C:\Users\tberman-waner\Desktop\GoogleDrive\Coursera\Game Programming\ProgrammingAssignment4\ProgrammingAssignment4\ProgrammingAssignment4\bin\x86\Debug\ProgrammingAssignment4.exe
+C:\Users\tberman-waner\Desktop\GoogleDrive\Coursera\Game Programming\ProgrammingAssignment4\ProgrammingAssignment4\ProgrammingAssignment4\bin\x86\Debug\ProgrammingAssignment4.pdb
+C:\Users\tberman-waner\Desktop\GoogleDrive\Coursera\Game Programming\ProgrammingAssignment4\ProgrammingAssignment4\ProgrammingAssignment4\obj\x86\Debug\ProgrammingAssignment4.csprojResolveAssemblyReference.cache
+C:\Users\tberman-waner\Desktop\GoogleDrive\Coursera\Game Programming\ProgrammingAssignment4\ProgrammingAssignment4\ProgrammingAssignment4\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\tberman-waner\Desktop\GoogleDrive\Coursera\Game Programming\ProgrammingAssignment4\ProgrammingAssignment4\ProgrammingAssignment4\obj\x86\Debug\ProgrammingAssignment4.exe
+C:\Users\tberman-waner\Desktop\GoogleDrive\Coursera\Game Programming\ProgrammingAssignment4\ProgrammingAssignment4\ProgrammingAssignment4\obj\x86\Debug\ProgrammingAssignment4.pdb
